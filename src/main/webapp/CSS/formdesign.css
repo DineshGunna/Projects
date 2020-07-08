@@ -1,0 +1,27 @@
+#addform
+	{
+		background-color: #faebd7;
+		padding: 60px;
+		width: 30%;
+		border-radius: 10px;
+		font-size: 20px;
+		margin-top: 50px;
+		margin-left: 380px;
+	}
+	input[type=text]
+	{
+		width: 100%;
+		padding: 15px;
+		border: none;
+		border-radius: 4px;
+		
+
+	}
+	input[type=submit],input[type=reset]
+	{
+		width: 40%;
+		color: black;
+		padding: 14px 20px;
+		border-radius: 10px;
+		border: none;
+	}
